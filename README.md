@@ -56,7 +56,7 @@ pip install pyxel
 ### Lancer le jeu
 
 ```bash
-git clone https://github.com/Cosmos506/pyxel-game.git
+git clone https://github.com/Cosmos506/Pyxel-game.git
 cd pyxel-game
 python main.py
 ```
@@ -65,12 +65,12 @@ python main.py
 
 ## 👥 Équipe
 
-Projet réalisé en **8 heures** lors de plusieurs sessions à deux.
+Projet réalisé en **8 heures** lors de plusieurs sessions à deux. 
 
 | Rôle | Contribution |
 |------|-------------|
-| 💻 **Code** | Logique du jeu, moteur de déplacement, gestion des collisions |
-| 🎨 **Graphisme** | Sprites, tileset, animations pixel art |
+| 💻 **Code** | Logique du jeu, moteur de déplacement, gestion des collisions (By CosmosDev)|
+| 🎨 **Graphisme** | Sprites, tileset, animations pixel art (By Nathan D)|
 
 ---
 
