@@ -1,5 +1,11 @@
 # ⚔️ Find Your Parents !
 
+<p align="center">
+  <img src="images/screenshot1.png" alt="Capture d'écran 1" width="45%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/screenshot2.png" alt="Capture d'écran 2" width="45%">
+</p>
+
 > *Un deathrun fait en 8h — courez, sautez, survivez.*
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
@@ -49,17 +55,18 @@ L'objectif : **atteindre la fin du niveau plus vite que tout ce qui veut vous tu
 - Python 3.x
 - [Pyxel](https://github.com/kitao/pyxel)
 
-```bash
-pip install pyxel
-```
-
-### Lancer le jeu
+### Lancer le jeu en le clonant
 
 ```bash
 git clone https://github.com/Cosmos506/Pyxel-game.git
 cd pyxel-game
+pip install pyxel
 python main.py
 ```
+
+### Lancer le jeu dans sa version web
+
+https://cosmos506.github.io/Pyxel-game/web/Pyxel-game.html
 
 ---
 
