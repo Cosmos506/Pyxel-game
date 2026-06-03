@@ -4,7 +4,7 @@ def update():
     global x,y, scroll_x, scroll_y, vy, on_ground, is_died, pers_x, pers_y, is_begin
     
     vy += 0.4 # gravity
-    if pyxel.btnp(pyxel.KEY_UP) and on_ground and not is_died and not is_begin and not is_finish:
+    if ( pyxel.btnp(pyxel.KEY_UP) or pyxel.btnp(pyxel.GAMEPAD1_BUTTON_X))  and on_ground and not is_died and not is_begin and not is_finish:
         vy = -5 # jump_force
     
     next_y = y + vy
@@ -19,11 +19,11 @@ def update():
         
     
     
-    if pyxel.btn(pyxel.KEY_RIGHT):
+    if pyxel.btn(pyxel.KEY_RIGHT) or pyxel.btn(pyxel.GAMEPAD1_BUTTON_DPAD_RIGHT):
         if x < 1024 and angle_move(x + 1, y, scroll_x) and not is_died and not is_begin and not is_finish:
             x = x + 1
             pers_x, pers_y = 0,0
-    if pyxel.btn(pyxel.KEY_LEFT):
+    if pyxel.btn(pyxel.KEY_LEFT) or pyxel.btn(pyxel.GAMEPAD1_BUTTON_DPAD_LEFT):
         if x > 0 and angle_move(x - 1, y, scroll_x) and not is_died and not is_begin and not is_finish:
             x = x - 1
             pers_x, pers_y = 8,0
