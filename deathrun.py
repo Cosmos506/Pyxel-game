@@ -8,15 +8,19 @@ def update():
         vy = -5 # jump_force
     
     next_y = y + vy
-    if angle_move(x, int(next_y), scroll_x) :
+    if angle_move(x, next_y, scroll_x) :
         y = next_y
-        if vy != 0.4 :
+        if vy < 0 : 
             on_ground = False
     else :
         on_ground = True
-        y = int(y)
+        for i in range(int(y), int(next_y)) : 
+            if angle_move(x, i +1 , scroll_x) :
+                continue
+            else : 
+                y = i
+                break
         vy = 0
-        
     
     
     if pyxel.btn(pyxel.KEY_RIGHT) or pyxel.btn(pyxel.GAMEPAD1_BUTTON_DPAD_RIGHT):
@@ -27,8 +31,6 @@ def update():
         if x > 0 and angle_move(x - 1, y, scroll_x) and not is_died and not is_begin and not is_finish:
             x = x - 1
             pers_x, pers_y = 8,0
-            if not on_ground :
-                pers_y = 8
             
     if pyxel.frame_count % 3 == 0 and not is_begin and not is_finish:
         scroll_x += 1
