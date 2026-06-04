@@ -20,7 +20,7 @@ def update():
             else : 
                 y = i
                 break
-        vy = 0
+        vy = 0        
     
     
     if pyxel.btn(pyxel.KEY_RIGHT) or pyxel.btn(pyxel.GAMEPAD1_BUTTON_DPAD_RIGHT):
