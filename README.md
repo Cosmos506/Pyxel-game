@@ -15,6 +15,12 @@
 
 ---
 
+## Préambule 
+
+Le jeu qui a été réalisé en 8h est celui qje vous pouvez retrouver dans la Release V1. Toutes les autres sont des ajouts pour une meilleure expérience ainsi qu'un effet compétitif.
+
+---
+
 ## 🏰 Histoire
 
 Dans un monde régi par l'Empire Byzantin, ta famille vit dans la misère la plus totale. Pour nourrir les leurs, tes parents ont tenté de voler dans les réserves du marché impérial.
@@ -36,6 +42,10 @@ Ton devoir est clair : infiltrer les sous-sols du château et les ramener sains 
 | 🟡 **Les piques** | Des piques jaunes parsèment le sol et les plateformes. Précision requise. |
 
 L'objectif : **atteindre la fin du niveau plus vite que tout ce qui veut vous tuer.**
+
+Speedrun : **Vous vous sentez a l'aise ? Essayez de finir le niveau le plus vite possible et partager ce score a vos amis afin qu'ils essayent de le battre !**
+
+*Vous pensez avoir le meilleur temps possible ? Ajoutez moi sur discord : cosmosdev03*
 
 ---
 
