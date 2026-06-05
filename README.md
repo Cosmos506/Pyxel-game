@@ -17,7 +17,7 @@
 
 ## Préambule 
 
-Le jeu qui a été réalisé en 8h est celui qje vous pouvez retrouver dans la Release V1. Toutes les autres sont des ajouts pour une meilleure expérience ainsi qu'un effet compétitif.
+Le jeu qui a été réalisé en 8h est celui que vous pouvez retrouver dans la Release V1. Toutes les autres sont des ajouts pour une meilleure expérience ainsi qu'un effet compétitif.
 
 ---
 
@@ -43,9 +43,9 @@ Ton devoir est clair : infiltrer les sous-sols du château et les ramener sains 
 
 L'objectif : **atteindre la fin du niveau plus vite que tout ce qui veut vous tuer.**
 
-Speedrun : **Vous vous sentez a l'aise ? Essayez de finir le niveau le plus vite possible et partager ce score a vos amis afin qu'ils essayent de le battre !**
+Speedrun : **Vous vous sentez a l'aise ? Essayez de finir le niveau le plus vite possible et partagez ce score a vos amis afin qu'ils essayent de le battre !**
 
-*Vous pensez avoir le meilleur temps possible ? Ajoutez moi sur discord : cosmosdev03*
+*Vous pensez avoir le meilleur temps jamais fait ? Ajoutez moi sur discord : cosmosdev03*
 
 ---
 
