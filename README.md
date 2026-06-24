@@ -17,7 +17,7 @@
 
 ## Préambule 
 
-Le jeu qui a été réalisé en 8h est celui que vous pouvez retrouver dans la Release V1. Toutes les autres sont des ajouts pour une meilleure expérience ainsi qu'un effet compétitif.
+Le jeu qui a été réalisé en 8h est celui que vous pouvez retrouver dans la Release V1. Toutes les versions suivantes ajoutent du contenu, des améliorations de gameplay et des fonctionnalités compétitives.
 
 ---
 
@@ -45,7 +45,18 @@ L'objectif : **atteindre la fin du niveau plus vite que tout ce qui veut vous tu
 
 Speedrun : **Vous vous sentez a l'aise ? Essayez de finir le niveau le plus vite possible et partagez ce score a vos amis afin qu'ils essayent de le battre !**
 
-*Vous pensez avoir le meilleur temps jamais fait ? Ajoutez moi sur discord : cosmosdev03*
+*Vous pensez avoir réalisé le meilleur temps ?*
+*Ajoutez moi sur Discord : cosmosdev03*
+
+---
+
+## ✨ Fonctionnalités
+
+- Deathrun 2D rapide et exigeant
+- Chronomètre intégré
+- Obstacles variés
+- Pixel-art original
+- Version jouable directement dans le navigateur
 
 ---
 
@@ -76,13 +87,13 @@ python main.py
 
 ### Lancer le jeu dans sa version web
 
-https://cosmos506.github.io/Pyxel-game/web/Pyxel-game.html
+**[Version Web](https://cosmos506.github.io/Pyxel-game/web/Pyxel-game.html)**
 
 ---
 
 ## 👥 Équipe
 
-Projet réalisé en **8 heures** lors de plusieurs sessions à deux. 
+Projet réalisé en plusieurs sessions pour un total d'environ **8 heures** de développement.
 
 | Rôle | Contribution |
 |------|-------------|
